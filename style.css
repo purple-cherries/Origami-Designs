@@ -1,0 +1,45 @@
+h1,a{
+    color:#ffffff
+  
+}
+h2{
+    color:rgb(114, 52, 185)
+}
+
+.header{
+    display : flex ;
+    justify-content : space-between;
+    background-color:#523636;
+    border-radius : 50px;
+    padding : 20px
+}
+
+.menu{
+    display : flex ;
+    justify-content : space-between;
+    
+}
+.grid{
+    display : flex;
+    flex-wrap : wrap;
+    border-radius : 50px;
+    background-color:#ffaaaa;
+    padding: 30px;
+    
+    
+}
+
+.origami{
+    justify-content : space-between;
+    border-radius : 20px;
+    width:310px;
+    font-family : fantasy;
+    padding : 50px
+    
+}
+
+body{
+    margin:20px
+}
+
+    
